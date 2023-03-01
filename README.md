@@ -3,9 +3,7 @@
 
 - 🌱 I’m currently learning **Flutter and improving my ReactJS level**
 
-- 👨‍💻 All of my projects are available at [https://celsocardenas.com/](https://celsocardenas.com/)
-
-- 💬 Ask me about **react and next**
+- 💬 Ask me about **react and next js**
 
 - 📫 How to reach me **cardenascelso9@gmail.com**
 
