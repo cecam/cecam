@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 I'm currently working on my own startup "Flatwhite"<br>👀 I share tech content on social media @cecam3 or @cecam3_<br>
+Frontend Engineer passionate about building scalable web applications and intuitive user experiences. Experienced in React, Next.js, and TypeScript, with strong skills in UI architecture, performance optimization, and testing. I’ve also worked on Web3 integrations, publishing open-source packages and developing widgets adopted by external partners. Always eager to learn, share knowledge, and contribute to impactful projects.
 
 
 ## 🌐 Socials:
