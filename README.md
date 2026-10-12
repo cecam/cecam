@@ -1,23 +1,29 @@
-# 💫 About Me:
-Frontend Engineer passionate about building scalable web applications and intuitive user experiences. Experienced in React, Next.js, and TypeScript, with strong skills in UI architecture, performance optimization, and testing. I’ve also worked on Web3 integrations, publishing open-source packages and developing widgets adopted by external partners. Always eager to learn, share knowledge, and contribute to impactful projects.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.png">
+  <img alt="Celso Cardenas. Product Engineer / Frontend." src="./assets/header-light.png" width="100%">
+</picture>
 
+# Hi, I'm Celso.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cecam3_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/celso-cardenas) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)]([https://youtube.com/@FlatWhiteOficial](https://www.youtube.com/@UnaDailyM%C3%A1s)) 
+**I'm a frontend engineer who cares about the whole product.**
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=cecam&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cecam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I build web applications with **React, Next.js, and TypeScript**. My work spans UI architecture, performance, testing, and the integrations that make a feature useful beyond the screen.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[Let's connect on LinkedIn](https://www.linkedin.com/in/celso-cardenas/)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+## What I've worked on
 
----
-[![](https://visitcount.itsvg.in/api?id=cecam&icon=0&color=0)](https://visitcount.itsvg.in)
+- **Web applications:** building interfaces, improving performance, and keeping frontend code testable as products grow.
+- **Tools for other developers:** publishing open-source packages and building embeddable widgets adopted by external partners.
+- **Web3 integrations:** connecting frontend experiences with services and workflows beyond the application itself.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## How I approach the work
+
+I like understanding what a feature needs to do for the person using it, then working through the details that make it reliable. Clear interfaces, thoughtful architecture, and useful tests all matter to me.
+
+My core stack is **React / Next.js / TypeScript**. Depending on the project, I also work with GraphQL, React Query, React Hook Form, and Tailwind CSS.
+
+## Beyond the code
+
+I enjoy sharing what I learn and talking about building software. You can also find me on [YouTube](https://www.youtube.com/@UnaDailyM%C3%A1s) and [Instagram](https://www.instagram.com/cecam3_/).
